@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ahmed-azzam
 - 👀 I’m interested in Data
-- 🌱 I’m currently learning cloud computing
-- 💞️ I’m looking to collaborate on peace of mind
+- 🌱 I’m currently learning cloud computing | Python
+- 😇 I’m looking to collaborate on peace of mind
 - 📫 How to reach me +970567777417 | ahmede.azzam@gmail.com
 
 <!---
